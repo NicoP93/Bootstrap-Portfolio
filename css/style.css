@@ -58,7 +58,7 @@ h1 {
 }
 body {
     
-    background-image:url("images/concrete_seamless.png")
+    background-image:url("..\images\concrete_seamless.png")
 }
 
 .name{
@@ -128,4 +128,8 @@ input[type=submit] {
   text-align: center;
   background: #4aaaa5;
   border-bottom: 0;
+}
+
+.repo h4 {
+  border: solid black 1px;
 }
