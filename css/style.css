@@ -60,20 +60,7 @@ body {
     
     background-image:url("..\images\concrete_seamless.png")
 }
-#number {
-  color:white;
-  position: absolute;
-  top:55px;
-  left:50px;
-}
-.name{
-    padding: 30px;
-    color:white;
-    background-color:#4aaaaf;
-    padding:20px;
-    font-size:26px;
-    
-}
+
 
 #contact-form ul {
   margin-bottom: 20px;
@@ -142,4 +129,33 @@ input[type=submit] {
 #LinkedIn {
   position:absolute;
   top:35px;
+}
+
+.name{
+  padding: 30px;
+  color:white;
+  background-color:#4aaaaf;
+  padding:20px;
+  font-size:1.5em;
+  
+}
+#topnumber,
+#topemail {
+  font-size:15px;
+  position: absolute;
+}
+#topnumber {
+  top:70px;
+  left:85px;
+}
+#topemail {
+  top:50px;
+  left:70px;
+
+}
+#topname {
+  position:relative;
+  bottom:20px;
+  left:10px;
+  font-size:1.5em;
 }
