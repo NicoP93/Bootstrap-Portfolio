@@ -2,7 +2,7 @@
      margin-top:45px;
      background-color:#666;
      padding:30px;
-     border-top:5px #4aaaaf solid;
+     border-top:5px #FFDF00 solid;
 
 }
 nav {
@@ -54,7 +54,7 @@ img {
 }
 h1 {
     margin-top:20px;
-    color:#4aaaaf;
+    color:#FFDF00;
 }
 body {
     
@@ -96,7 +96,7 @@ input[type=submit] {
   font-size: 18px;
   color: #ffffff;
   cursor: pointer;
-  background: #4aaaa5;
+  background: #FFDF00;
   border: 0 none;
 }
 
@@ -118,7 +118,7 @@ input[type=submit] {
   line-height: 30px;
   color: #ffffff;
   text-align: center;
-  background: #4aaaa5;
+  background: #FFDF00;
   border-bottom: 0;
 }
 
@@ -134,7 +134,7 @@ input[type=submit] {
 .name{
   padding: 30px;
   color:white;
-  background-color:#4aaaaf;
+  background-color:#FFDF00;
   padding:20px;
   font-size:1.5em;
   
