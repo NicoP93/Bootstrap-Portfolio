@@ -60,7 +60,12 @@ body {
     
     background-image:url("..\images\concrete_seamless.png")
 }
-
+#number {
+  color:white;
+  position: absolute;
+  top:55px;
+  left:50px;
+}
 .name{
     padding: 30px;
     color:white;
@@ -132,4 +137,9 @@ input[type=submit] {
 
 .repo h4 {
   border: solid black 1px;
+}
+
+#LinkedIn {
+  position:absolute;
+  top:35px;
 }
